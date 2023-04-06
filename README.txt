@@ -7,4 +7,4 @@ Here are the steps to open the site:
   - Press the addon and it should open VSCode where u can download the add-on
 3. Now you can open the interactive site by starting a live server:
   - In VSCode, Open the folder which the html file is in (File>Open Folder...> choose the folder which the html file is in)
-  - Follow any one of the 5 ways listed on the download site of the add-on to open the live server, doing so will open the interactive site
+  - Press on the "Go Live" button  near the bottom right of the screen, or follow any one of the 5 ways listed on the download site of the add-on to open the live server, doing so will open the interactive site
