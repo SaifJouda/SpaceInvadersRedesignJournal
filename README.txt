@@ -1,3 +1,8 @@
+Interactive Website: https://saifjouda.github.io/SpaceInvadersRedesignJournal/
+Source Code: https://github.com/uwohci23/group-19
+
+
+If you want to open the website locally (with source code on machine):
 Interactives for Unity require a live server to work (You CANNOT just open the html file). 
 Here are the steps to open the site:
 1. Open Visual Studio Code (here is a link to download it if you dont have it: https://code.visualstudio.com/docs/setup/setup-overview )
